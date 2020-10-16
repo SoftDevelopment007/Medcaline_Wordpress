@@ -14,6 +14,8 @@ https://themeforest.net/item/medcaline-psychology-counseling-wordpress-theme/267
  - set up wp
  * unzip wordpress-5.5.zip in htdoc holder
  * http://localhost/wordpress/wp-admin/
+ * change name "wp_config_sample.php" to "wp_config.php"
+ 
    db name: "wordpress_db"
    user: "root"
    password: ""
